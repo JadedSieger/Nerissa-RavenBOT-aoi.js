@@ -1,6 +1,6 @@
 # Nerissa RavenBOT, Aoi.js
 
-## Nerissa RavenBOT is created by SimpCast Productions. As a younger sister Bot to Kei Shirogane, she offers more flexibility and features.
+## Nerissa RavenBOT is created by SimpCast Productions. As a younger sister bot to Kei Shirogane, she offers more flexibility and features.
 
 # Installation
 
