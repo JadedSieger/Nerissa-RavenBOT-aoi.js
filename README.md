@@ -17,8 +17,9 @@ installs all dependencies
 
 ## Step 2: Setting up Your Own Bot
 
-> navigate to config.json, then copy your Bot token into the token variable.
-> You can then set three custom prefixes for your bot to use (Make sure to use prefixes that do not conflict with other bots)
+- Navigate to config.json
+- Copy your Bot token into the token variable.
+- Set three custom prefixes for your bot to use (Make sure to use prefixes that do not conflict with other bots)
 
 ## Step 3: Tweaking and Running your bot
 
