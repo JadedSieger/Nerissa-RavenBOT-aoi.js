@@ -11,8 +11,9 @@
 installs all dependencies
 
 **Method 2:**
-`npm i `
+`npm i @akarui/aoi.music`
 `npm i @akarui/aoi.js@6.5.0`
+`npm i @akarui/aoi.parser`
 
 ## Step 2: Setting up Your Own Bot
 
