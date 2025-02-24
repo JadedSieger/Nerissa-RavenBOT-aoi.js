@@ -8,7 +8,7 @@
 
 **Method 1:** 
 `npm i` 
-installs all dependencies
+installs all dependencies (only when you have a package.json already prepared)
 
 **Method 2:**
 `npm i @akarui/aoi.music`
